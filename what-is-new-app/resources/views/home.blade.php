@@ -65,12 +65,12 @@
                 <div class="p-4">
                     <div class="text-3xl mb-2">⚡</div>
                     <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1">Real-Time Updates</h3>
-                    <p class="text-sm text-gray-600 dark:text-gray-400">Pending</p>
+                    <p class="text-sm text-gray-600 dark:text-gray-400">Coming Soon</p>
                 </div>
                 <div class="p-4">
                     <div class="text-3xl mb-2">🎯</div>
                     <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1">Personalized</h3>
-                    <p class="text-sm text-gray-600 dark:text-gray-400">Pending</p>
+                    <p class="text-sm text-gray-600 dark:text-gray-400">Coming Soon</p>
                 </div>
             </div>
         </div>
